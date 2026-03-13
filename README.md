@@ -1,6 +1,6 @@
 #Project Based Experiments
 ## Objective :
- Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
+Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
 ## Dataset Acquisition:
 Download the MNIST dataset. You can use libraries like TensorFlow or PyTorch to easily access the dataset.
